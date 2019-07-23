@@ -9,3 +9,4 @@ gamerule maxCommandChainLength 65535
 gamerule maxEntityCramming 65535
 gamerule mobGriefing false
 gamerule randomTickSpeed 3
+gamerule commandBlockOutput false

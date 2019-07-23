@@ -6,6 +6,6 @@
     "nkparticle:legendary",
     "nkparticle:itemedit",
     "nkparticle:rotation",
-    "nkutil:reset_rtick"
+    "nkutil:set_rule"
   ]
 }

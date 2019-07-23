@@ -1,1 +1,1 @@
-execute as @e[tag=NKR] at @s run tp @s ~ ~ ~ ~6 ~
+execute as @e[tag=nk_particle_rotate] at @s run tp @s ~ ~ ~ ~6 ~

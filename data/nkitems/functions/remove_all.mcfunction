@@ -1,1 +1,1 @@
-kill @e[type=item,tag=NKI]
+kill @e[type=item,tag=nkitem]

@@ -1,0 +1,3 @@
+execute at @e[type=item,nbt={OnGround:0b,Item:{tag:{NKR:"D"}}}] run particle minecraft:portal ~ ~1.3 ~ 0 0 0 0.003 1 force
+execute at @e[type=item,nbt={OnGround:1b,Item:{tag:{NKR:"D"}}}] rotated as @e[tag=NKR,limit=1] run particle minecraft:portal ^ ^0.2 ^1 0 0 0 0 1 force
+execute at @e[type=item,nbt={OnGround:1b,Item:{tag:{NKR:"D"}}}] rotated as @e[tag=NKR,limit=1] run particle minecraft:portal ^ ^0.2 ^-1 0 0 0 0 1 force

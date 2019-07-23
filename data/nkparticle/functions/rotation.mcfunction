@@ -1,0 +1,1 @@
+execute as @e[tag=NKR] at @s run tp @s ~ ~ ~ ~6 ~

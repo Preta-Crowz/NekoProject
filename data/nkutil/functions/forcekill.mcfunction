@@ -1,1 +1,1 @@
-execute as @e[type=!player,distance=..10] run data merge entity @s {Health:0}
+execute as @e[type=!player,distance=..5] run data merge entity @s {Health:0}
